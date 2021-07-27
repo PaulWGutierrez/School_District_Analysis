@@ -5,9 +5,9 @@
 
 
 ### Results
-- #### In the analysis there are differences within types of schools, sizes and budgets. As the graph show the district schools are the types of schools being affected the most. Within these numbers the sizes of the school make a big impact, but overall the performance and grades of the district schools are not resulting very well.
+- #### In the analysis there are differences within types of schools and budgets. As the graph show the district schools are the types of schools being affected the   most. Within these numbers the overall performance and grades of the district schools are not resulting very well.
 
- #### The 9th graders data does also have an affect overall expecially in passing overall. Without the 9th graders scores the passing percentages drop.
+ - #### The 9th graders data does also have an affect overall expecially in passing overall. Without the 9th graders scores the passing percentages drop.
 
  <img width="997" alt="School Summary" src="https://user-images.githubusercontent.com/86431959/127078474-44d79d4a-6775-457c-9e9c-8f43782c3476.png">
 
