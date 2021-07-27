@@ -21,4 +21,4 @@
  <img width="993" alt="Bottom Performing Schools" src="https://user-images.githubusercontent.com/86431959/127079260-1bc25ae6-366b-4e2a-8a8e-854ff4d6760c.png">
 
 ### Summary 
-#### Some of the changes within the updated school district analysis were the over grades had an impact, overall performance from the schools and budgetting is something that needs to be analysized more in depth moving forward
+#### Some of the changes within the updated school district analysis were the over grades had an impact, overall performance from the schools and budgetting is something that needs to be analysized more in depth moving forward.
