@@ -22,3 +22,7 @@
 
 ### Summary 
 #### Some of the changes within the updated school district analysis were the over grades had an impact, overall performance from the schools and budgetting is something that needs to be analysized more in depth moving forward.
+
+## Contact:
+##### E-mail:
+##### LinkedIn: https://www.linkedin.com/in/pwgutierrez
